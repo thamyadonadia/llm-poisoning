@@ -1,4 +1,4 @@
-<h1 align="center"> Generative Pre-Trained Transformers - 2024/2 - Trabalho Final </h1> <br>
+<h1 align="center"> Generative Pre-Trained Transformers - Trabalho Final </h1> <br>
 
 Este projeto utiliza o framework Unsloth para realizar *Continual Pretraining* (CPT) em modelos de linguagem, adaptando-os a dados específicos, como os de comunidades extremistas. A técnica de Low-Rank Adaptation (LoRA) é aplicada para ajustar eficientemente modelos de grande escala, como Mistral e Llama, utilizando memória da GPU de forma otimizada.
 
